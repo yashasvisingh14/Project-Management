@@ -1,4 +1,5 @@
-# Project Managment 
+# Project Managment - Redesigning workplace for Fiber Light 
+## Project Business Case
 The project aims to carry out a project for Fiber Light, a telecommunications service provider, which acquired Wilmington Telco, a relatively small fiber optic network in a rural area of Upstate
 NY. With this acquisition of network, Fiber Light will get an additional 8 POP sites as well as 1250 miles of fiber cable assets. The acquisition supported the hiring of 12 Wilmington Telco employees and their relocation to Fiber Light's headquarters in DeWitt, NY. This required to carry out a project to address the equipping of
 office space with hardware, software, as well as the extension of LAN connectivity and the VoIP PBX phone system for additional employees. Redesigning the workplace will make it more welcoming and
