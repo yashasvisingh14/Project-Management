@@ -10,3 +10,5 @@ The project involved-
 * Produce a work effort and project cost report 
 * Produce an Excel Spreadsheet Cross check
 * Summary of findings
+
+Tools - MS Word, MS Excel, MS Project
